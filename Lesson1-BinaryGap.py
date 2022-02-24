@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[115]:
-
-
 def solution(N):
     # write your code in Python 3.6
     global bin_gap
@@ -24,7 +18,8 @@ def solution(N):
             #print("No")
     #print("Binary gap: " + str(bin_gap))
     return bin_gap 
-    
+
+# The code below is to test 
 import random
 num = random.randint(0, 500)
 solution(num)
