@@ -6,7 +6,7 @@ Lesson 1 Iterations
 
 Lesson 2 Arrays
 - [OddOccurrencesInArray](https://github.com/Mickey0521/Codility/blob/master/OddOccurrencesInArray.java)
-- [CyclicRotation](https://github.com/Mickey0521/Codility/blob/master/CyclicRotation.java)
+- [CyclicRotation](https://github.com/saadbinmunir/Codility/blob/main/Lesson2-CyclicRotation.py)
 
 Lesson 3 Time Complexity
 - [FrogJmp](https://github.com/Mickey0521/Codility/blob/master/FrogJmp.java)
