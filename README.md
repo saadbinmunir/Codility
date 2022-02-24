@@ -2,7 +2,7 @@
 My Solutions to [Codility Lessons](https://codility.com/programmers/lessons/1-iterations/) in Python with 100% performance
 
 Lesson 1 Iterations
-- [BinaryGap](https://github.com/Mickey0521/Codility/blob/master/BinaryGap.java)
+- [BinaryGap](https://github.com/saadbinmunir/Codility/blob/main/Lesson1-BinaryGap.py)
 
 Lesson 2 Arrays
 - [OddOccurrencesInArray](https://github.com/Mickey0521/Codility/blob/master/OddOccurrencesInArray.java)
