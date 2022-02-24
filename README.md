@@ -1,2 +1,2 @@
 # Codility
-My Solutions to Codility (100% performance)
+My Solutions to Codility in Python (100% performance)
