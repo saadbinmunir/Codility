@@ -5,79 +5,79 @@ Lesson 1 Iterations
 - [BinaryGap](https://github.com/saadbinmunir/Codility/blob/main/Lesson1-BinaryGap.py)
 
 Lesson 2 Arrays
-- [OddOccurrencesInArray](https://github.com/Mickey0521/Codility/blob/master/OddOccurrencesInArray.java)
+- [OddOccurrencesInArray](https://github.com/saadbinmunir/Codility/blob/main/Lesson2-OddOccurrencesInArray.py)
 - [CyclicRotation](https://github.com/saadbinmunir/Codility/blob/main/Lesson2-CyclicRotation.py)
 
 Lesson 3 Time Complexity
-- [FrogJmp](https://github.com/Mickey0521/Codility/blob/master/FrogJmp.java)
-- [PermMissingElem](https://github.com/Mickey0521/Codility/blob/master/PermMissingElem.java)
-- [TapeEquilibrium](https://github.com/Mickey0521/Codility/blob/master/TapeEquilibrium.java)
+- [FrogJmp]
+- [PermMissingElem]
+- [TapeEquilibrium]
 
 Lesson 4 Counting Elements
-- [PermCheck](https://github.com/Mickey0521/Codility/blob/master/PermCheck.java)
-- [FrogRiverOne](https://github.com/Mickey0521/Codility/blob/master/FrogRiverOne.java)
-- [MissingInteger](https://github.com/Mickey0521/Codility/blob/master/MissingInteger.java)
-- [MaxCounters](https://github.com/Mickey0521/Codility/blob/master/MaxCounters.java) (respectable)
+- [PermCheck]
+- [FrogRiverOne]
+- [MissingInteger]
+- [MaxCounters]
 
 Lesson 5 Prefix Sums
-- [CountDiv](https://github.com/Mickey0521/Codility/blob/master/CountDiv.java)
-- [PassingCars](https://github.com/Mickey0521/Codility/blob/master/PassingCars.java)
-- [GenomicRangeQuery](https://github.com/Mickey0521/Codility/blob/master/GenomicRangeQuery.java) (respectable)
-- [MinAvgTwoSlice](https://github.com/Mickey0521/Codility/blob/master/MinAvgTwoSlice.java) (respectable)
+- [CountDiv]
+- [PassingCars]
+- [GenomicRangeQuery]
+- [MinAvgTwoSlice]
 
 Lesson 6 Sorting
-- [Distinct](https://github.com/Mickey0521/Codility/blob/master/Distinct.java)
-- [Triangle](https://github.com/Mickey0521/Codility/blob/master/Triangle.java)
-- [MaxProductOfThree](https://github.com/Mickey0521/Codility/blob/master/MaxProductOfThree.java)
-- [NumberOfDiscIntersections](https://github.com/Mickey0521/Codility/blob/master/NumberOfDiscIntersections.java) (respectable)
+- [Distinct]
+- [Triangle]
+- [MaxProductOfThree]
+- [NumberOfDiscIntersections]
 
 Lesson 7 Stacks and Queues
-- [StoneWall](https://github.com/Mickey0521/Codility/blob/master/StoneWall.java)
-- [Brackets](https://github.com/Mickey0521/Codility/blob/master/Brackets.java)
-- [Nesting](https://github.com/Mickey0521/Codility/blob/master/Nesting.java)
-- [Fish](https://github.com/Mickey0521/Codility/blob/master/Fish.java)
+- [StoneWall]
+- [Brackets]
+- [Nesting]
+- [Fish]
 
 Lesson 8 Leader
-- [EquiLeader](https://github.com/Mickey0521/Codility/blob/master/EquiLeader.java)
-- [Dominator](https://github.com/Mickey0521/Codility/blob/master/Dominator.java)
+- [EquiLeader]
+- [Dominator]
 
 Lesson 9 Maximum slice problem
-- [MaxDoubleSliceSum](https://github.com/Mickey0521/Codility/blob/master/MaxDoubleSliceSum.java)
-- [MaxProfit](https://github.com/Mickey0521/Codility/blob/master/MaxProfit.java)
-- [MaxSliceSum](https://github.com/Mickey0521/Codility/blob/master/MaxSliceSum.java)
+- [MaxDoubleSliceSum]
+- [MaxProfit]
+- [MaxSliceSum]
 
 Lesson 10 Prime and composite numbers
-- [MinPerimeterRectangle](https://github.com/Mickey0521/Codility/blob/master/MinPerimeterRectangle.java)
-- [CountFactors](https://github.com/Mickey0521/Codility/blob/master/CountFactors.java)
-- [Peaks](https://github.com/Mickey0521/Codility/blob/master/Peaks.java) (respectable)
+- [MinPerimeterRectangle]
+- [CountFactors]
+- [Peaks]
 - Flags (respectable)
 
 Lesson 11 Sieve of Eratosthenes
-- [CountSemiprimes](https://github.com/Mickey0521/Codility/blob/master/CountSemiprimes.java)
-- [CountNonDivisible](https://github.com/Mickey0521/Codility/blob/master/CountNonDivisible.java) (respectable)
+- [CountSemiprimes]
+- [CountNonDivisible]
 
 Lesson 12 Euclidean algorithm
-- [ChocolatesByNumbers](https://github.com/Mickey0521/Codility/blob/master/ChocolatesByNumbers_SimpleLowPerformance.java)
+- [ChocolatesByNumbers]
 - CommonPrimeDivisors (respectable)
 
 Lesson 13 Fibonacci numbers
-- [Ladder](https://github.com/Mickey0521/Codility/blob/master/Ladder.java) (respectable)
-- [FibFrog](https://github.com/Mickey0521/Codility/blob/master/FibFrog.java) (respectable)
+- [Ladder]
+- [FibFrog]
 
 Lesson 14 Binary search algorithm
-- [MinMaxDivision](https://github.com/Mickey0521/Codility/blob/master/MinMaxDivision.java) (respectable)
-- NailingPlanks (respectable)
+- [MinMaxDivision]
+- NailingPlanks
 
 Lesson 15 Caterpillar method
-- [AbsDistinct](https://github.com/Mickey0521/Codility/blob/master/AbsDistinct.java)
-- [CountDistinctSlices](https://github.com/Mickey0521/Codility/blob/master/CountDistinctSlices.java)
-- [CountTriangles](https://github.com/Mickey0521/Codility/blob/master/CountTriangles.java)
-- MinAbsSumOfTwo (respectable)
+- [AbsDistinct]
+- [CountDistinctSlices]
+- [CountTriangles]
+- MinAbsSumOfTwo
 
 Lesson 16 Greedy algorithms
-- [MaxNonoverlappingSegments](https://github.com/Mickey0521/Codility/blob/master/MaxNonoverlappingSegments.java)
-- [TieRopes](https://github.com/Mickey0521/Codility/blob/master/TieRopes.java)
+- [MaxNonoverlappingSegments]
+- [TieRopes]
 
 Lesson 17 Dynamic programming
-- [NumberSolitaire](https://github.com/Mickey0521/Codility/blob/master/NumberSolitaire.java) (respectable)
+- [NumberSolitaire]
 - MinAbsSum (ambitious)
